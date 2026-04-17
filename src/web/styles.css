@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v370 -->
+<div class="styles-—-stylesheet-definitions-370">
+  <header class="section">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-370">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="header">
+    <div class="panel">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-370">v370</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-370 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 17px;
+  padding: 26px;
+  background: #ab26d6;
+  border-radius: 11px;
+  border: 1px solid #06e3ad;
+}
+.styles-—-stylesheet-definitions-370 .section {
+  color: #cf3ef3;
+  font-size: 15px;
+  font-weight: 700;
+}
+.badge-370 {
+  background: #06e3ad;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 10px;
+}
+</style>
